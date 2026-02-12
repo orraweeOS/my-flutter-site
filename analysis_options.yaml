@@ -26,6 +26,3 @@ linter:
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
-analyzer:
-  errors:
-    experiment_not_enabled: ignore # สั่งให้ CI ข้ามการเช็คเรื่องฟีเจอร์ทดลอง
